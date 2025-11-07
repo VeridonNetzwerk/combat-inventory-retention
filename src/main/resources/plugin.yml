@@ -1,0 +1,6 @@
+name: CombatInventoryRetention
+version: 1.0.0
+main: de.deepsz.combatretention.CombatInventoryRetentionPlugin
+api-version: 1.20
+description: Keep 50 percent of a player's inventory on combat death.
+Author: Veridon
